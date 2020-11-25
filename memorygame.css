@@ -1,0 +1,20 @@
+.titre {
+  display: flex;
+  background-color: #006400;
+  font: 30px Arial, sans-serif;
+  justify-content: center;
+  border: 10px solid white
+}
+
+.cartes {
+  display: flex;
+  justify-content: space-around;
+  background-color: #9932CC;
+}
+
+.carterow {
+  border: 10px solid white;
+  padding: 5%;
+  border-radius: 10px;
+  background-color: #6495ED;
+}
